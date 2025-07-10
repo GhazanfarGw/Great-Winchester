@@ -188,13 +188,6 @@ function Logo({ isScrolled }) {
                 >
                    Cyber Secruity
                 </a>
-                {/* <a
-                  href="#careers"
-                  className="
-                  tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
-                >
-                  Careers
-                </a> */}
                 <a
                   href="#office"
                   className="
@@ -308,13 +301,6 @@ function Logo({ isScrolled }) {
                       items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
                     >
                        Cyber Secruity
-                    </a>
-                    <a
-                      href="#careers"
-                      className="
-                      items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
-                    >
-                      Careers
                     </a>
                     <a
                       href="#office"
