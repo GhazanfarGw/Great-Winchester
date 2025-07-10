@@ -73,7 +73,7 @@ export default function Choose() {
                 <div className='justify-center mx-auto w-full bg-[#101010] px-5 md:mt-10 mt-5'>
                     <div className='text-[#aaa] max-w-screen-xl mx-auto justify-center md:py-20 py-10 text-center md:text-xl text-xs'>
                         <p>
-                        Join us in accelerating the transition to sustainable transportation with Great Winchester Investments' ultra-fast EV charging network – powering your journey, preserving our planet.
+                        Join us in accelerating the transition to sustainable transportation with Great Winchester Group LLC ultra-fast EV charging network – powering your journey, preserving our planet.
                         </p>
                     </div>
                 </div>
