@@ -23,7 +23,7 @@ export default function About() {
                     <div className='mx-auto md:pt-8 pt-3'>
                         <div className='max-w-4xl justify-center mx-auto tracking-wide'>
                             <p className='md:text-lg text-sm text-[#999]'>
-                                At Great Winchester Investments, we are at the helm of transforming the UK's approach to sustainable transportation. Our commitment to developing an extensive network of ultra-fast Electric Vehicle (EV) charging stations, featuring 400+ kW capabilities, is a testament to our dedication to environmental stewardship and innovation. We are not just participants but leaders in the movement towards a greener, more sustainable future.
+                                At Great Winchester Group LLC, we are at the helm of transforming the UK's approach to sustainable transportation. Our commitment to developing an extensive network of ultra-fast Electric Vehicle (EV) charging stations, featuring 400+ kW capabilities, is a testament to our dedication to environmental stewardship and innovation. We are not just participants but leaders in the movement towards a greener, more sustainable future.
                             </p>
                         </div>
                     </div>
