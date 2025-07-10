@@ -13,7 +13,7 @@ export default function Riskassessment() {
                     Identifying Vulnerabilities, Fortifying Defenses
                 </h3>
                 <p className='text-[#999] md:text-base text-sm pt-3'>
-                    At Great Winchester Investments, our cybersecurity services begin with a thorough risk assessment and management process. Our approach is designed to identify vulnerabilities within your digital infrastructure, assess the potential impact of various cyber threats, and implement effective strategies to manage and mitigate these risks.
+                    At Great Winchester Group LLC, our cybersecurity services begin with a thorough risk assessment and management process. Our approach is designed to identify vulnerabilities within your digital infrastructure, assess the potential impact of various cyber threats, and implement effective strategies to manage and mitigate these risks.
                 </p>
             </div>
 
