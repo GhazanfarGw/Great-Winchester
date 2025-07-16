@@ -5,6 +5,7 @@ import React, { useEffect, useState } from 'react';
 import EV from './Pages/EV Charging/Index';
 import Preloader from './Pages/Preloader';
 import Cybersecurity from './Pages/Cyber Security/index';
+import Framed from './Pages/Fram Gallery/Index'
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -27,6 +28,7 @@ function App() {
           <Route path="/" element={ <Index/> } />
           <Route path="/electric-vehicle" element={ <EV/> } />
           <Route path="/cyber-secruity" element={ <Cybersecurity/> } />
+          <Route path="/framed-gallery-art" element={ <Framed/> } />
           <Route path="/login" element={ <Login/> } />
 
         </Routes>
