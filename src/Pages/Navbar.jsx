@@ -86,6 +86,12 @@ function Logo({ isScrolled }) {
                        Cyber Secruity
                     </a>
                     <a
+                    href="/framed-gallery-art"
+                    className="items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
+                    >
+                      Framed Gallery
+                    </a>
+                    <a
                       href="#office"
                       className="
                       items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
@@ -187,6 +193,13 @@ function Logo({ isScrolled }) {
                   tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
                 >
                    Cyber Secruity
+                </a>
+                <a
+                  href="/framed-gallery-art"
+                  className="
+                  tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
+                >
+                  Framed Gallery
                 </a>
                 <a
                   href="#office"
@@ -303,6 +316,13 @@ function Logo({ isScrolled }) {
                        Cyber Secruity
                     </a>
                     <a
+                      href="/framed-gallery-art"
+                      className="
+                      items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
+                    >
+                      Framed Gallery
+                    </a>
+                    <a
                       href="#office"
                       className="
                       items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
@@ -406,11 +426,11 @@ function Logo({ isScrolled }) {
                    Cyber Secruity
                 </a>
                 <a
-                  href="#careers"
+                  href="/framed-gallery-art"
                   className="
                   tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
                 >
-                  Careers
+                  Framed Gallery
                 </a>
                 <a
                   href="#office"
