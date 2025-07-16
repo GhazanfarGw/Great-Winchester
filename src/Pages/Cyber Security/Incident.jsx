@@ -13,7 +13,7 @@ export default function Riskassessment() {
                     Minimizing Impact, Ensuring Continuity
                 </h3>
                 <p className='text-[#999] md:text-base text-sm pt-3'>
-                    In the event of a cyber incident, Great Winchester Group LLC' rapid and coordinated incident response services are designed to minimize impact and swiftly restore operations.
+                    In the event of a cyber incident, Great Winchester Group's rapid and coordinated incident response services are designed to minimize impact and swiftly restore operations.
                 </p>
             </div>
 
