@@ -14,7 +14,7 @@ export default function About() {
                         About Us
                     </h1>
                     <p className='pt-3 tracking-wide text-sm md:text-xl text-[#e0e0e0]'>
-                        Great Winchester Group LLC is a leading business that invests in  different assets classes mainly fintech and health tech companies. 
+                        Great Winchester Group is a leading business that invests in  different assets classes mainly fintech and health tech companies. 
                         Along side with our investment we offer cyber security solutions to all our portfolio of companies. Our mission is to create long-term value for our family & friends. 
                         Who believed in us and gives us the support which we need throughout our journey. Our Minimum ticket size is $3.5 Million US Dollars. 
                         Great Winchester will keep working around the clock to provide the best advice to our family & friends.
