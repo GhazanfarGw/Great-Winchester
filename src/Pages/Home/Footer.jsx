@@ -5,7 +5,7 @@ const Footer = () => {
         <div className='mt-10'>
             <div className='max-w-screen-xl mx-auto justify-center md:py-10 md:px-10 pb-10 px-5'>
                 <h1 className='text-[#aaa] md:text-base text-sm justify-center pb-5'>
-                    Website last updated: July 10, 2025
+                    Website last updated: July 01, 2026
                 </h1>
                 <div className='md:grid md:grid-cols-4 md:gap-x-20 md:max-w-7xl mx-auto justify-center py-5 text-white'>
                     <div className="py-2 md:px-0">
@@ -132,14 +132,14 @@ const Footer = () => {
                             Address
                         </h1>
                         <p className='text-sm text-[#C3CDD3] md:pt-4 pt-2'>
-                            15813 Waterloo Rd, Cleveland, OH 44110, United States
+                            Harju maakond, Tallinn  Veskiposti tn 2-1002, 10138 Estonia EU
                         </p>
                     </div>
                 </div>
                 <div className='justify-center mx-auto md:text-center md:px-5 md:pb-5'>
                     <div className='border-b border-[#d8bb6c]'/>
                         <p className='text-xs text-[#C3CDD3] pt-5'>
-                            Great Winchester &copy; 2025. All right reserved.
+                            Great Winchester &copy; 2026. All right reserved.
                         </p>
                         <p className='text-xs text-[#C3CDD3] pt-3'>
                             Great Winchester Group LLC is a company registered in England & Wales Number (11500509)
