@@ -390,13 +390,6 @@ function Logo({ isScrolled }) {
                   Home
                 </a>
                 <a
-                  href="#about"
-                  className="
-                  tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
-                >
-                  About Us
-                </a>
-                <a
                   href="/electric-vehicle"
                   className="
                   tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
@@ -416,13 +409,6 @@ function Logo({ isScrolled }) {
                   tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
                 >
                   Framed Gallery
-                </a>
-                <a
-                  href="#office"
-                  className="
-                  tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
-                >
-                  Our Office
                 </a>
                 <a
                   target="_blank"
