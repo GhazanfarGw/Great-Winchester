@@ -62,14 +62,6 @@ function Logo({ isScrolled }) {
                       Home
                     </a>
                     <a
-                      href="#about"
-                      className="
-                      
-                      items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
-                    >
-                      About Us
-                    </a>
-                    <a
                       href="/electric-vehicle"
                       className="
                       
@@ -90,13 +82,6 @@ function Logo({ isScrolled }) {
                     className="items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
                     >
                       Framed Gallery
-                    </a>
-                    <a
-                      href="#office"
-                      className="
-                      items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
-                    >
-                      Our Office
                     </a>
                   </div>
                   <div>
